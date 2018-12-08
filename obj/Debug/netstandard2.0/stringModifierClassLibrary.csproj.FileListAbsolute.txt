@@ -1,0 +1,9 @@
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/stringModifierClassLibrary/bin/Debug/netstandard2.0/stringModifierClassLibrary.deps.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/stringModifierClassLibrary/bin/Debug/netstandard2.0/stringModifierClassLibrary.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/stringModifierClassLibrary/bin/Debug/netstandard2.0/stringModifierClassLibrary.pdb
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/stringModifierClassLibrary/obj/Debug/netstandard2.0/stringModifierClassLibrary.csprojAssemblyReference.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/stringModifierClassLibrary/obj/Debug/netstandard2.0/stringModifierClassLibrary.csproj.CoreCompileInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/stringModifierClassLibrary/obj/Debug/netstandard2.0/stringModifierClassLibrary.AssemblyInfoInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/stringModifierClassLibrary/obj/Debug/netstandard2.0/stringModifierClassLibrary.AssemblyInfo.cs
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/stringModifierClassLibrary/obj/Debug/netstandard2.0/stringModifierClassLibrary.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/stringModifierClassLibrary/obj/Debug/netstandard2.0/stringModifierClassLibrary.pdb
